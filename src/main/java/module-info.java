@@ -4,8 +4,7 @@
 module office.portal {
    requires transitive java.logging;
    requires transitive javafx.controls;
-   requires transitive com.google.gson;
 } // module
-{
+
     
 
